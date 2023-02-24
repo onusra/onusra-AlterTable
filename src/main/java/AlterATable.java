@@ -53,6 +53,9 @@ public class AlterATable {
      *   |3         |'Charles'          |
      *
      */
+    public static void main(String [] args){
+        
+    }
     public void problem1(){
         String sql = FileUtil.parseSQLFile("problem1.sql");
 
