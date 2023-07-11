@@ -53,7 +53,9 @@ public class AlterATable {
      *   |3         |'Charles'          |
      *
      */
-    public static void main(String [] args){
+    
+    
+     public static void main(String [] args){
         
     }
     public void problem1(){
